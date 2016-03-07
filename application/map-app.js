@@ -24,7 +24,7 @@ var addMarkersToMap = function addMarkersToMap(data) {
       return L.marker(latlng, {icon: icon});
     },
     onEachFeature: function (feature, layer) {
-          
+
       oms.addMarker(layer);
 
       if(feature.properties.leitung) {leitung = "</p><p>Verantwortlich: " + feature.properties.leitung}
@@ -54,8 +54,9 @@ var addMarkersToMap = function addMarkersToMap(data) {
     }
   });
   map.addLayer(geoJsonLayer);
-  map.addControl( new L.Control.Search({layer: geoJsonLayer, propertyName: 'ort'}) );
+  map.addControl( new L.Control.Search({layer: geoJsonLayer, propertyName: 'name'}) );
 };
+
   $.getJSON( "./data/ddj.geojson", function(data) {
   addMarkersToMap(data);
 });

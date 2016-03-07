@@ -14,11 +14,12 @@ CSV.foreach('ddj.csv') do |row|
     },
     properties: {
       name: row[2],
-      link: row[3],
-      ort: row[4],
-      leitung: row[5],
-      icon: row[7],
-      type: row[8]
+      orga: row[3],
+      link: row[4],
+      ort: row[5],
+      leitung: row[6],
+      icon: row[8],
+      type: row[9]
     }
   }
 

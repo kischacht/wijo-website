@@ -1,0 +1,7 @@
+long,lat,name,orga,link,ort,leitung,picture,icon,type
+8.560453,47.417563,SRF Data,SRF (Schweizer Radio und Fernsehen),http://www.srf.ch/news/srf-data,Zürich,Sylke Gruhnwald,http://www.festivaldelgiornalismo.com/pictures/user/medium/1/1911_47UQW.jpg,./data/icons/srfdata.png,Redaktion
+11.55409,48.14424,BR Data,BR (Bayerischer Rundfunk),http://www.br.de/extra/br-data/index.html,München,Uli Koeppen,http://blog.br.de/abi2011/wp-content/themes/abi2011/data/ulrike-koeppen_200.jpg,./data/icons/br.png,Redaktion
+13.39804,52.50762,Interaktiv-Team,Berliner Morgenpost,http://www.morgenpost.de/interaktiv/,Berlin,Julius Tröger,https://pbs.twimg.com/profile_images/548995319434723330/ZdqKy8ug.jpeg,./data/icons/mopo.jpg,Redaktion
+13.38103,52.50519,Team Investigativ/Daten,ZEIT Online,http://www.zeit.de/datenjournalismus,Berlin,Sascha Venohr,http://community.zeit.de/sites/default/files/pictures/picture-211790-1446728989.jpg,./data/icons/zeit.png,Redaktion
+10.004017,53.545762,Datenlese,SPIEGEL Online,http://www.spiegel.de/thema/daten/,Hamburg,Christina Elmer,http://onmedia.dw-akademie.com/english/files/IMG_0340.jpg,./data/icons/spon.jpg,Redaktion
+8.547561,47.364939,NZZ Storytelling,NZZ (Neue Züricher Zeitung),http://www.nzz.ch/data/,Zürich,Sylke Gruhnwald,http://www.lpr-forum-medienzukunft.de/files/gruhnwald_sylke_huenerfauth_klein.png,./data/icons/nzz.png,Redaktion
