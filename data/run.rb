@@ -10,16 +10,19 @@ CSV.foreach('ddj.csv') do |row|
     type: 'Feature',
     geometry: {
       type: 'Point',
-      coordinates: [row[1].to_f, row[0].to_f]
+      coordinates: [row[0].to_f, row[1].to_f]
     },
     properties: {
       name: row[2],
-      popup: row[3],
-      type: row[4]
+      link: row[3],
+      ort: row[4],
+      leitung: row[5],
+      icon: row[7],
+      type: row[8]
     }
   }
 
-  # adding city object to cities array
+  # adding entry object to ddj array
   if $. != 1
     ddj.push(entry) unless $. == 1
   end

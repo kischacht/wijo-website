@@ -1,13 +1,18 @@
-team <- data.frame(  
+Redaktion <- data.frame(  
       long = c(8.560453, 11.554090, 13.398040, 13.381030, 10.004017, 8.547561),
       lat = c(47.417563, 48.144240, 52.507620, 52.505190, 53.545762, 47.364939),
-      name = c("srf", "br", "mopo", "zeit", "spon", "nzz"),
-      popup = c("<a href='http://www.srf.ch/news/srf-data'><span style='color: green; font-size:9pt'><strong>SRF Data</strong></span></a><br>Zürich<br>Leitung: Sylke Gruhnwald<br><p><img class='alignright' src='http://www.festivaldelgiornalismo.com/pictures/user/medium/1/1911_47UQW.jpg' alt='sylke' width='80%' height='80%'/></p>",
-          "<a href='http://www.br.de/extra/br-data/index.html'><span style='color: green; font-size:9pt'><strong>BR Data</strong></span></a><br>München<br>Leitung: Uli Koeppen<p><img class='alignright' src='http://blog.br.de/abi2011/wp-content/themes/abi2011/data/ulrike-koeppen_200.jpg' alt='uli' width='90%' height='90%'/></p>",
-          "<a href='http://www.morgenpost.de/interaktiv/'><span style='color: green; font-size:9pt'><strong>Interaktiv-Team MoPo</strong></span></a><br>Berlin<br>Leitung: Julius Tröger<p><img class='alignright' src='https://pbs.twimg.com/profile_images/548995319434723330/ZdqKy8ug.jpeg' alt='julius' width='80%' height='80%'/></p>",
+      name = c("SRF (Schweizer Radio und Fernsehen)", "BR (Bayerischer Rundfunk)", "Berliner Morgenpost", "ZEIT Online", "SPIEGEL Online", "NZZ (Neue Züricher Zeitung"),
+      link = c("<a href='http://www.srf.ch/news/srf-data'>",
+               "<a href='http://www.br.de/extra/br-data/index.html'>",
+               "<a href='http://www.morgenpost.de/interaktiv/'>",
           "<a href='http://www.zeit.de/datenjournalismus'><span style='color: green; font-size:9pt'><strong>Datenredaktion Zeit online</strong></span></a><br>Berlin<br>Leitung: Sascha Venohr<p><img class='alignright' src='http://community.zeit.de/sites/default/files/pictures/picture-211790-1446728989.jpg' alt='sascha' width='70%' height='70%'/></p>",
           "<a href='http://www.spiegel.de/thema/daten/'><span style='color: green; font-size:9pt'><strong>Spiegel Online Datenlese</strong></span></a><br>Hamburg<br>Leitung: Christina Elmer<p><img class='alignright' src='http://onmedia.dw-akademie.com/english/files/IMG_0340.jpg' alt='christina' width='70%' height='70%'/></p>",
-          "<a href='http://www.nzz.ch/data/'><span style='color: green; font-size:9pt'><strong>NZZ Data</strong></span></a><br>Zürich<br>Leitung: Sylke Gruhnwald (?)<p><img class='alignright' src='http://www.lpr-forum-medienzukunft.de/files/gruhnwald_sylke_huenerfauth_klein.png' alt='sylke' width='60%' height='60%'/></p>")
+          "<a href='http://www.nzz.ch/data/'><span style='color: green; font-size:9pt'><strong>NZZ Data</strong></span></a><br>Zürich<br>Leitung: Sylke Gruhnwald (?)<p><img class='alignright' src='http://www.lpr-forum-medienzukunft.de/files/gruhnwald_sylke_huenerfauth_klein.png' alt='sylke' width='60%' height='60%'/></p>"),
+      ort = c("Zürich", "München", "Berlin"),
+      leitung = c("Sylke Gruhnwald", "Uli Koeppen", "Julius Tröger"),
+      picture = c("http://www.festivaldelgiornalismo.com/pictures/user/medium/1/1911_47UQW.jpg",
+                  "http://blog.br.de/abi2011/wp-content/themes/abi2011/data/ulrike-koeppen_200.jpg",
+                  "https://pbs.twimg.com/profile_images/548995319434723330/ZdqKy8ug.jpeg")
       )
 
 
@@ -22,7 +27,8 @@ team <- data.frame(
       tu = makeIcon(iconUrl= "tu.png", 20, 20),
       nzz = makeIcon(iconUrl= "nzz.jpg", 20, 20)
 )'
-opendata <- data.frame(  
+
+Meetup <- data.frame(  
             long = c(7.417445, 9.993682, 13.382337, 11.629084, 7.630538, 6.748874, 6.638324, 6.773096, 
               7.144582, 6.900711, 7.094403, 8.690906, 9.479753, 11.576037, 12.379037, 8.681832, 
               13.747688, 12.940579, 11.011690, 9.227360, 9.173458, 9.954148, 8.405627, 11.568393,
@@ -59,15 +65,15 @@ opendata <- data.frame(
                 "<a href='http://codefor.de/freiburg/'><span style='color: green; font-size:9pt'><strong>OK Lab</strong></span></a> <br> Freiburg")
       )
 
-ausbildung <- data.frame(long = c(7.417798), lat = c(51.494564),
+Ausbildung <- data.frame(long = c(7.417798), lat = c(51.494564),
       name = factor("tu"),
       popup = c("<a href='http://www.wissenschaftsjournalismus.org/ba-zweitfach-datenanalyse.html'><span style='color: green; font-size:9pt'><strong>Studiengang ddj</strong></span></a> <br> Dortmund
             <br>Leitung: Holger Wormer<br><p><img class='alignright' src='http://journalistik.tu-dortmund.de/fileadmin/Bilder/Mitarbeiter/wormer.jpg'
             alt='holger' width='80%' height='80%' /></p>")
       )
 
-ddj <- rbind(team = team, ausbildung = ausbildung, opendata = opendata)
+ddj <- rbind(Redaktion = Redaktion, Ausbildung = Ausbildung, Meetup = Meetup)
 ddj$type <- gsub("\\..*$", "", rownames(ddj))
 
-write.csv(ddj, file = "C:\\Users\\Kira\\OneDrive\\SHK WiJo\\wijou\\data\\ddj.csv",
+write.csv(ddj, file = "C:\\Users\\Kira\\OneDrive\\SHK WiJo\\wijou\\data\\ddj2.csv",
           row.names = FALSE, fileEncoding = "UTF-8")

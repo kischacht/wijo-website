@@ -1,35 +1,33 @@
-"long","lat","name","popup","type"
-8.560453,47.417563,"srf","<a href='http://www.srf.ch/news/srf-data'><span style='color: green; font-size:9pt'><strong>SRF Data</strong></span></a><br>ZÃ¼rich<br>Leitung: Sylke Gruhnwald<br><p><img class='alignright' src='http://www.festivaldelgiornalismo.com/pictures/user/medium/1/1911_47UQW.jpg' alt='sylke' width='80%' height='80%'/></p>","team"
-11.55409,48.14424,"br","<a href='http://www.br.de/extra/br-data/index.html'><span style='color: green; font-size:9pt'><strong>BR Data</strong></span></a><br>MÃ¼nchen<br>Leitung: Uli Koeppen<p><img class='alignright' src='http://blog.br.de/abi2011/wp-content/themes/abi2011/data/ulrike-koeppen_200.jpg' alt='uli' width='90%' height='90%'/></p>","team"
-13.39804,52.50762,"mopo","<a href='http://www.morgenpost.de/interaktiv/'><span style='color: green; font-size:9pt'><strong>Interaktiv-Team MoPo</strong></span></a><br>Berlin<br>Leitung: Julius TrÃ¶ger<p><img class='alignright' src='https://pbs.twimg.com/profile_images/548995319434723330/ZdqKy8ug.jpeg' alt='julius' width='80%' height='80%'/></p>","team"
-13.38103,52.50519,"zeit","<a href='http://www.zeit.de/datenjournalismus'><span style='color: green; font-size:9pt'><strong>Datenredaktion Zeit online</strong></span></a><br>Berlin<br>Leitung: Sascha Venohr<p><img class='alignright' src='http://community.zeit.de/sites/default/files/pictures/picture-211790-1446728989.jpg' alt='sascha' width='70%' height='70%'/></p>","team"
-10.004017,53.545762,"spon","<a href='http://www.spiegel.de/thema/daten/'><span style='color: green; font-size:9pt'><strong>Spiegel Online Datenlese</strong></span></a><br>Hamburg<br>Leitung: Christina Elmer<p><img class='alignright' src='http://onmedia.dw-akademie.com/english/files/IMG_0340.jpg' alt='christina' width='70%' height='70%'/></p>","team"
-8.547561,47.364939,"nzz","<a href='http://www.nzz.ch/data/'><span style='color: green; font-size:9pt'><strong>NZZ Data</strong></span></a><br>ZÃ¼rich<br>Leitung: Sylke Gruhnwald (?)<p><img class='alignright' src='http://www.lpr-forum-medienzukunft.de/files/gruhnwald_sylke_huenerfauth_klein.png' alt='sylke' width='60%' height='60%'/></p>","team"
-7.417798,51.494564,"tu","<a href='http://www.wissenschaftsjournalismus.org/ba-zweitfach-datenanalyse.html'><span style='color: green; font-size:9pt'><strong>Studiengang ddj</strong></span></a> <br> Dortmund
-            <br>Leitung: Holger Wormer<br><p><img class='alignright' src='http://journalistik.tu-dortmund.de/fileadmin/Bilder/Mitarbeiter/wormer.jpg'
-            alt='holger' width='80%' height='80%' /></p>","ausbildung"
-7.417445,51.494049,"journo","<a href='http://journocode.com/'><span style='color: green; font-size:9pt'><strong>journocode</strong></span></a> <br> Dortmund","opendata"
-9.993682,53.551085,"ok","<a href='http://codefor.de/hamburg/'><span style='color: green; font-size:9pt'><strong>OK Lab</strong></span></a> <br> Hamburg","opendata"
-13.382337,52.498534,"ok","<a href='http://codefor.de/berlin/'><span style='color: green; font-size:9pt'><strong>OK Lab</strong></span></a> <br> Berlin","opendata"
-11.629084,52.11952,"ok","<a href='http://codefor.de/magdeburg/'><span style='color: green; font-size:9pt'><strong>OK Lab</strong></span></a> <br> Magdeburg","opendata"
-7.630538,51.964971,"ok","<a href='http://codefor.de/muenster/'><span style='color: green; font-size:9pt'><strong>OK Lab</strong></span></a> <br> MÃ¼nster","opendata"
-6.748874,51.569299,"ok","<a href='http://codefor.de/ruhrgebiet/'><span style='color: green; font-size:9pt'><strong>OK Lab</strong></span></a> <br> Ruhrgebiet","opendata"
-6.638324,51.481628,"ok","<a href='http://codefor.de/niederrhein/'><span style='color: green; font-size:9pt'><strong>OK Lab</strong></span></a> <br> Niederrhein","opendata"
-6.773096,51.227698,"ok","<a href='http://codefor.de/duesseldorf/'><span style='color: green; font-size:9pt'><strong>OK Lab</strong></span></a> <br> DÃ¼sseldorf","opendata"
-7.144582,51.26642,"ok","<a href='http://codefor.de/wuppertal/'><span style='color: green; font-size:9pt'><strong>OK Lab</strong></span></a> <br> Wuppertal","opendata"
-6.900711,50.960162,"ok","<a href='http://codefor.de/koeln/'><span style='color: green; font-size:9pt'><strong>OK Lab</strong></span></a> <br> KÃ¶ln","opendata"
-7.094403,50.73741,"ok","<a href='http://codefor.de/bonn/'><span style='color: green; font-size:9pt'><strong>OK Lab</strong></span></a> <br> Bonn","opendata"
-8.690906,50.587295,"ok","<a href='http://codefor.de/giessen/'><span style='color: green; font-size:9pt'><strong>OK Lab</strong></span></a> <br> GieÃŸen","opendata"
-9.479753,51.312384,"ok","<a href='http://codefor.de/kassel/'><span style='color: green; font-size:9pt'><strong>OK Lab</strong></span></a> <br> Kassel","opendata"
-11.576037,50.922167,"ok","<a href='http://codefor.de/jena/'><span style='color: green; font-size:9pt'><strong>OK Lab</strong></span></a> <br> Jena","opendata"
-12.379037,51.331725,"ok","<a href='http://codefor.de/leipzig/'><span style='color: green; font-size:9pt'><strong>OK Lab</strong></span></a> <br> Leipzig","opendata"
-8.681832,50.116395,"ok","<a href='http://codefor.de/frankfurt/'><span style='color: green; font-size:9pt'><strong>OK Lab</strong></span></a> <br> Frankfurt","opendata"
-13.747688,51.046866,"ok","<a href='http://codefor.de/dresden/'><span style='color: green; font-size:9pt'><strong>OK Lab</strong></span></a> <br> Dresden","opendata"
-12.940579,50.829905,"ok","<a href='http://codefor.de/chemnitz/'><span style='color: green; font-size:9pt'><strong>OK Lab</strong></span></a> <br> Chemnitz","opendata"
-11.01169,49.590018,"ok","<a href='http://codefor.de/erlangen/'><span style='color: green; font-size:9pt'><strong>OK Lab</strong></span></a> <br> Erlangen","opendata"
-9.22736,49.134316,"ok","<a href='http://codefor.de/heilbronn/'><span style='color: green; font-size:9pt'><strong>OK Lab</strong></span></a> <br> Heilbronn","opendata"
-9.173458,48.776427,"ok","<a href='http://codefor.de/stuttgart/'><span style='color: green; font-size:9pt'><strong>OK Lab</strong></span></a> <br> Stuttgart","opendata"
-9.954148,48.424874,"ok","<a href='http://codefor.de/ulm/'><span style='color: green; font-size:9pt'><strong>OK Lab</strong></span></a> <br> Ulm","opendata"
-8.405627,49.006257,"ok","<a href='http://codefor.de/karlsruhe/'><span style='color: green; font-size:9pt'><strong>OK Lab</strong></span></a> <br> Karlsruhe","opendata"
-11.568393,48.144718,"ok","<a href='http://codefor.de/muenchen/'><span style='color: green; font-size:9pt'><strong>OK Lab</strong></span></a> <br> MÃ¼nchen","opendata"
-7.850041,47.983412,"ok","<a href='http://codefor.de/freiburg/'><span style='color: green; font-size:9pt'><strong>OK Lab</strong></span></a> <br> Freiburg","opendata"
+long,lat,name,link,ort,leitung,picture,icon,type
+8.560453,47.417563,"SRF Data, SRF (Schweizer Radio und Fernsehen)",http://www.srf.ch/news/srf-data,Zürich,Sylke Gruhnwald,http://www.festivaldelgiornalismo.com/pictures/user/medium/1/1911_47UQW.jpg,./data/icons/srfdata.png,Redaktion
+11.55409,48.14424,"BR Data, BR (Bayerischer Rundfunk)",http://www.br.de/extra/br-data/index.html,München,Uli Koeppen,http://blog.br.de/abi2011/wp-content/themes/abi2011/data/ulrike-koeppen_200.jpg,./data/icons/br.png,Redaktion
+13.39804,52.50762,"Interaktiv-Team, Berliner Morgenpost",http://www.morgenpost.de/interaktiv/,Berlin,Julius Tröger,https://pbs.twimg.com/profile_images/548995319434723330/ZdqKy8ug.jpeg,./data/icons/mopo.jpg,Redaktion
+13.38103,52.50519,"Team Investigativ/Daten, ZEIT Online",http://www.zeit.de/datenjournalismus,Berlin,Sascha Venohr,http://community.zeit.de/sites/default/files/pictures/picture-211790-1446728989.jpg,./data/icons/zeit.png,Redaktion
+10.004017,53.545762,SPIEGEL Online,http://www.spiegel.de/thema/daten/,Hamburg,Christina Elmer,http://onmedia.dw-akademie.com/english/files/IMG_0340.jpg,./data/icons/spon.jpg,Redaktion
+8.547561,47.364939,"NZZ Storytelling, NZZ (Neue Züricher Zeitung)",http://www.nzz.ch/data/,Zürich,Sylke Gruhnwald,http://www.lpr-forum-medienzukunft.de/files/gruhnwald_sylke_huenerfauth_klein.png,./data/icons/nzz.png,Redaktion
+7.417798,51.494564,TU Dortmund,http://www.wissenschaftsjournalismus.org/ba-zweitfach-datenanalyse.html,Dortmund,Holger Wormer,http://journalistik.tu-dortmund.de/fileadmin/Bilder/Mitarbeiter/wormer.jpg,./data/icons/tu.png,Ausbildung
+7.417445,51.494049,Journocode,http://journocode.com/,Dortmund,Marie-Louise Timcke,,./data/icons/journo.png,Meetup
+9.993682,53.551085,OK Lab,http://codefor.de/hamburg,Hamburg,,,./data/icons/ok.png,Meetup
+13.382337,52.498534,OK Lab,http://codefor.de/berlin,Berlin,,,./data/icons/ok.png,Meetup
+11.629084,52.11952,OK Lab,http://codefor.de/magdeburg,Magdeburg,,,./data/icons/ok.png,Meetup
+7.630538,51.964971,OK Lab,http://codefor.de/muenster,Münster,,,./data/icons/ok.png,Meetup
+6.748874,51.569299,OK Lab,http://codefor.de/ruhrgebiet,Ruhrgebiet,,,./data/icons/ok.png,Meetup
+6.638324,51.481628,OK Lab,http://codefor.de/niederrhein,Niederrhein,,,./data/icons/ok.png,Meetup
+6.773096,51.227698,OK Lab,http://codefor.de/duesseldorf,Düsseldorf,,,./data/icons/ok.png,Meetup
+7.144582,51.26642,OK Lab,http://codefor.de/wuppertal,Wuppertal,,,./data/icons/ok.png,Meetup
+6.900711,50.960162,OK Lab,http://codefor.de/koeln,Köln,,,./data/icons/ok.png,Meetup
+7.094403,50.73741,OK Lab,http://codefor.de/bonn,Bonn,,,./data/icons/ok.png,Meetup
+8.690906,50.587295,OK Lab,http://codefor.de/giessen,Gießen,,,./data/icons/ok.png,Meetup
+9.479753,51.312384,OK Lab,http://codefor.de/kassel,Kassel,,,./data/icons/ok.png,Meetup
+11.576037,50.922167,OK Lab,http://codefor.de/jena,Jena,,,./data/icons/ok.png,Meetup
+12.379037,51.331725,OK Lab,http://codefor.de/leipzig,Leipzig,,,./data/icons/ok.png,Meetup
+8.681832,50.116395,OK Lab,http://codefor.de/frankfurt,Frankfurt,,,./data/icons/ok.png,Meetup
+13.747688,51.046866,OK Lab,http://codefor.de/dresden,Dresden,,,./data/icons/ok.png,Meetup
+12.940579,50.829905,OK Lab,http://codefor.de/chemnitz,Chemnitz,,,./data/icons/ok.png,Meetup
+11.01169,49.590018,OK Lab,http://codefor.de/erlangen,Erlangen,,,./data/icons/ok.png,Meetup
+9.22736,49.134316,OK Lab,http://codefor.de/heilbronn,Heilbronn,,,./data/icons/ok.png,Meetup
+9.173458,48.776427,OK Lab,http://codefor.de/stuttgart,Stuttgart,,,./data/icons/ok.png,Meetup
+9.954148,48.424874,OK Lab,http://codefor.de/ulm,Ulm,,,./data/icons/ok.png,Meetup
+8.405627,49.006257,OK Lab,http://codefor.de/karlsruhe,Karlsruhe,,,./data/icons/ok.png,Meetup
+11.568393,48.144718,OK Lab,http://codefor.de/münchen,München,,,./data/icons/ok.png,Meetup
+7.850041,47.983412,OK Lab,http://codefor.de/freiburg,Freiburg,,,./data/icons/ok.png,Meetup
