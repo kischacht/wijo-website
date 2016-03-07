@@ -1,6 +1,6 @@
-var map = L.map('map', { zoomControl: false}).setView([51.420370, 10.251105], 7);
+var map = L.map('map', { zoomControl: false, minZoom: 6}).setView([51.420370, 10.251105], 7);
 new L.Control.Zoom({ position: 'bottomright' }).addTo(map);
-//, minZoom: 6
+
 // improve experience on mobile
 if (map.tap) map.tap.disable();
 
@@ -27,12 +27,15 @@ var addMarkersToMap = function addMarkersToMap(data) {
 
       oms.addMarker(layer);
 
-      if(feature.properties.leitung) {leitung = "</p><p>Verantwortlich: " + feature.properties.leitung}
+      if(feature.properties.leitung) {leitung = "<p><b>Verantwortlich:</b> " + feature.properties.leitung + "</p>"}
       else {leitung = ""}
 
+      if(feature.properties.orga) {orga = "<b>" + feature.properties.orga + "</b> | "}
+      else {orga = ""}
+
       popupHtml = (
-        "<p><a href='" + feature.properties.link + "'>" + feature.properties.name + "</a>, <em>" +
-        feature.properties.ort + leitung + "</p>"
+        "<h1><a target href='" + feature.properties.link + "'><b>" + feature.properties.name + "</b></a></h1>" +
+        "<p>" + orga + "<em>" + feature.properties.ort + "</em></p>" + leitung
       )
 
       var popup = L.popup({
@@ -54,7 +57,7 @@ var addMarkersToMap = function addMarkersToMap(data) {
     }
   });
   map.addLayer(geoJsonLayer);
-  map.addControl( new L.Control.Search({layer: geoJsonLayer, propertyName: 'name'}) );
+  //map.addControl( new L.Control.Search({layer: geoJsonLayer, propertyName: 'name'}) );
 };
 
   $.getJSON( "./data/ddj.geojson", function(data) {

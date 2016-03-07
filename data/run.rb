@@ -30,4 +30,4 @@ CSV.foreach('ddj.csv') do |row|
 end
 
 data = {type: 'FeatureCollection', features: ddj}
-File.open("ddj.geojson", 'w') { |file| file.print data.to_json }
+File.open("ddj_new.geojson", 'w') { |file| file.print data.to_json }

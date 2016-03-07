@@ -1,4 +1,22 @@
-.custom-popup .leaflet-popup-content {
-      font-size: 34px;
-      font-family: "Times New Roman";
+@font-face {
+      font-family: "OpenSansCond-Bold";
+      src: url("../vendor/fonts/OpenSans-CondBold.ttf");
 }
+
+@font-face {
+      font-family: "OpenSansCond";
+      src: url("../vendor/fonts/OpenSans-CondLight.ttf");
+}
+
+.custom-popup .leaflet-popup-content {
+      font-family: "OpenSansCond";
+}
+
+a:link, a:visited {
+    color: #b5d475;
+}
+a:hover, a:active {
+    color: #5a7424;
+}
+
+h1 { font-size: 26 px}
