@@ -34,7 +34,7 @@ var addMarkersToMap = function addMarkersToMap(data) {
       else {orga = ""}
 
       popupHtml = (
-        "<h1><a target href='" + feature.properties.link + "'><b>" + feature.properties.name + "</b></a></h1>" +
+        "<h1><a target='_blank' href='" + feature.properties.link + "'><b>" + feature.properties.name + "</b></a></h1>" +
         "<p>" + orga + "<em>" + feature.properties.ort + "</em></p>" + leitung
       )
 
