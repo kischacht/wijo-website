@@ -19,7 +19,7 @@ var addMarkersToMap = function addMarkersToMap(data) {
     pointToLayer: function (feature, latlng) {
       var icon = new L.Icon({
             iconUrl: feature.properties.icon,
-            iconSize: [50, 50],
+            iconSize: [70, 70],
       });
       return L.marker(latlng, {icon: icon});
     },
