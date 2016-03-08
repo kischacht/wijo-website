@@ -12,7 +12,7 @@ L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={
   accessToken: 'pk.eyJ1IjoiZGF0ZW5kcmFuZyIsImEiOiJjaWczYXBsZTAxcGQ1dXJtM3IydXBxbXMwIn0.s2c_Q7uvRnMO8cB3RokJ3A'
 }).addTo(map);
 
-var oms = new OverlappingMarkerSpiderfier(map, {keepSpiderfied: true});
+var oms = new OverlappingMarkerSpiderfier(map, {keepSpiderfied: true, nearbyDistance: 30});
 
 var addMarkersToMap = function addMarkersToMap(data) {
   var geoJsonLayer = L.geoJson(data, {
@@ -47,13 +47,14 @@ var addMarkersToMap = function addMarkersToMap(data) {
 
       layer.bindPopup(popup);
 
-      oms.addListener('mouseover', function(marker) {
+      oms.addListener('click', function(marker) {
             popup.setLatLng(marker.getLatLng());
       });
 
-      oms.addListener('spiderfy', function(marker) {
-      map.closePopup(popup);
+      oms.addListener('spiderfy', function(markers) {
+        this.closePopup();
       });
+
     }
   });
   map.addLayer(geoJsonLayer);
