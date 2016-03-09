@@ -1,0 +1,85 @@
+<h2> A <a href='#B'>B</a> <a href='#C'>C</a> D E F <a href='#G'>G</a> H I <a href='#J'>J</a> <a href='#K'>K</a> <a href='#L'>L</a> <a href='#M'>M</a> <a href='#N'>N</a> O <a href='#P'>P</a> Q R <a href='#S'>S</a> <a href='#T'>T</a> U <a href='#V'>V</a> W X Y Z </h2>
+
+<table>
+ <tr>
+<td></td>
+<td><h2 id='B'><b>Björn Schwentker</b></h2><h3>Freier Datenjournalist | <em>Hamburg</em></h3><br><h4><b>Twitter:</b> <a href='https://twitter.com/bschwentker'>@Bschwentker</a></h4><h4><b>Website:</b> <a href='http://www.demografie-blog.de/de/'>Demografie-Blog</a></h4><h4><b>Portrait:</b> <a href='http://netzwerkrecherche.org/wordpress/blog14/der-bevoelkerungs-experte/'>Der Bevölkerungs-Experte</a></h4></td>
+</tr>
+ <tr>
+<td></td>
+<td><h2 id='B'><b>Brigitte Alfter</b></h2><h3>Freie Datenjournalistin | <em>Kopenhagen</em></h3><br><h4><b>Twitter:</b> <a href='https://twitter.com/hackette7'>@Hackette7</a></h4><h4><b>Website:</b> <a href='http://alfter.dk/'>alfter.dk</a></h4><h4><b>Portrait:</b> <a href='http://netzwerkrecherche.org/wordpress/blog14/die-grenzgaengerin-2/'>Die Grenzgängerin</a></h4></td>
+</tr>
+ <tr>
+<td></td>
+<td><h2 id='C'><b>Christina Elmer</b></h2><h3>Radakteurin für Datenjournalismus, SPIEGEL Online | <em>Hamburg</em></h3><br><h4><b>Twitter:</b> <a href='https://twitter.com/chelm'>@ChElm</a></h4><h4><b>Website:</b> <a href='http://www.spiegel.de/thema/daten/'>Datenlese Blog</a></h4><h4><b>Portrait:</b> <a href='http://netzwerkrecherche.org/wordpress/blog14/die-brueckenbauerin-2/'>Die Brückenbauerin</a></h4></td>
+</tr>
+ <tr>
+<td></td>
+<td><h2 id='G'><b>Gregor Aisch</b></h2><h3>Graphics Editor, New York Times | <em>New York</em></h3><br><h4><b>Twitter:</b> <a href='https://twitter.com/driven_by_data'>@driven-by-data</a></h4><h4><b>Website:</b> <a href='http://driven-by-data.net/'>driven-by-data.net</a></h4><h4><b>Portrait:</b> <a href='http://netzwerkrecherche.org/wordpress/blog14/der-visualisierer/'>Der Visualisierer</a></h4></td>
+</tr>
+ <tr>
+<td></td>
+<td><h2 id='J'><b>Johannes Kröger</b></h2><h3>Open-Data-Aktivist | Wiss. Mitarbeiter Labor für Geovisualisierung, HCU Hamburg | <em>Hamburg</em></h3><br><h4><b>Twitter:</b> <a href='https://twitter.com/cartocalypse'>@cartocalypse</a></h4><h4><b>Website:</b> <a href='http://hannes.enjoys.it/blog/'>Hannes ihm sein Blog</a></h4><h4><b>Portrait:</b> <a href='https://netzwerkrecherche.org/blog/der-farben-nerd/'>Der Farben-Nerd</a></h4></td>
+</tr>
+ <tr>
+<td></td>
+<td><h2 id='J'><b>Julius Tröger</b></h2><h3>Leiter Interaktiv-Team, Berliner Morgenpost | <em>Berlin</em></h3><br><h4><b>Twitter:</b> <a href='https://twitter.com/juliustroeger'>@juliastroeger</a></h4><h4><b>Website:</b> <a href='http://www.juliustroeger.de/'>juliustroeger.de</a></h4><h4><b>Portrait:</b> <a href='https://netzwerkrecherche.org/blog/der-lokaldatenjournalist/'>Der Lokaldatenjournalist</a></h4></td>
+</tr>
+ <tr>
+<td></td>
+<td><h2 id='K'><b>Kurt Jansson</b></h2><h3>Datenjournalist in der Dokumentation, SPIEGEL | <em>Hamburg</em></h3><br><h4><b>Twitter:</b> <a href='https://twitter.com/Kurt_Jansson'>@Kurt_Jansson</a></h4><h4><b>Website:</b> <a href='http://www.jansson.de/'>jansson.de</a></h4><h4><b>Portrait:</b> <a href='https://netzwerkrecherche.org/blog/der-datenbefreier/'>Der Datenbefreier</a></h4></td>
+</tr>
+ <tr>
+<td></td>
+<td><h2 id='L'><b>Lorenz Matzat</b></h2><h3>Freier Datenjournalist | <em>Berlin</em></h3><br><h4><b>Twitter:</b> <a href='https://twitter.com/lorz'>@lorz</a></h4><h4><b>Website:</b> <a href='http://datenjournalist.de/'>Datenjournalist.de</a></h4><h4><b>Portrait:</b> <a href='http://netzwerkrecherche.org/wordpress/blog14/der-daten-ueberflieger-2/'>Der Daten-Überflieger</a></h4></td>
+</tr>
+ <tr>
+<td></td>
+<td><h2 id='M'><b>Marco Maas</b></h2><h3>Freier Datenjournailst | Geschäftsführer OpenDataCity | <em>Hamburg, Berlin, ..</em></h3><br><h4><b>Twitter:</b> <a href='https://twitter.com/themaastrix'>@themaastrix</a></h4><h4><b>Website:</b> <a href='https://opendatacity.de/blog/'>OpenDataCity</a></h4><h4><b>Portrait:</b> <a href='http://netzwerkrecherche.org/wordpress/blog14/der-weltverbesserer/'>Der Weltverbesserer</a></h4></td>
+</tr>
+ <tr>
+<td></td>
+<td><h2 id='M'><b>Maximilian Schäfer</b></h2><h3>Datenjournalist in der Dokumentation, SPIEGEL | <em>Hamburg</em></h3><br><h4><b>Twitter:</b> <a href='https://twitter.com/max__schaefer'>@max__schaefer</a></h4><h4><b>Website:</b> <a href=''></a></h4><h4><b>Portrait:</b> <a href='https://netzwerkrecherche.org/blog/der-mann-im-hintergrund/'>Der Mann im Hintergrund</a></h4></td>
+</tr>
+ <tr>
+<td></td>
+<td><h2 id='M'><b>Michael Hörz</b></h2><h3>Freier (Daten-)Journalist | Open-Data-Aktivist | Datenjournalismus-Trainer | <em>Berlin</em></h3><br><h4><b>Twitter:</b> <a href='https://twitter.com/data_meining'>@datameining</a></h4><h4><b>Website:</b> <a href='http://www.michael-hoerz.de/'>michael-hoerz.de</a></h4><h4><b>Portrait:</b> <a href='https://netzwerkrecherche.org/blog/der-speeddating-vermittler/#more-5974'>Der Speeddating-Vermittler</a></h4></td>
+</tr>
+ <tr>
+<td></td>
+<td><h2 id='N'><b>Nicola Kuhrt</b></h2><h3>Chefredakteurin, Deutsche Apotheker Zeitung | <em>Hamburg</em></h3><br><h4><b>Twitter:</b> <a href='https://twitter.com/nicolakuhrt'>@nicolakuhrt</a></h4><h4><b>Website:</b> <a href='http://www.kuhrtgesagt.de/'>Kuhrtgesagt</a></h4><h4><b>Portrait:</b> <a href='http://netzwerkrecherche.org/wordpress/blog14/die-datenleserin/'>Die Datenleserin</a></h4></td>
+</tr>
+ <tr>
+<td></td>
+<td><h2 id='P'><b>Patrick Stotz</b></h2><h3>Datenjournalist, SPIEGEL Online | <em>Hamburg</em></h3><br><h4><b>Twitter:</b> <a href='https://twitter.com/patrickstotz'>@patrickstotz</a></h4><h4><b>Website:</b> <a href='http://mappable.info/'>mappable.info</a></h4><h4><b>Portrait:</b> <a href='http://netzwerkrecherche.org/wordpress/blog14/der-umsteiger-2/'>Der Umsteiger</a></h4></td>
+</tr>
+ <tr>
+<td></td>
+<td><h2 id='S'><b>Sascha Venohr</b></h2><h3>Head of Data Journalism, Investigativ-Team, ZEIT Online | <em>Berlin</em></h3><br><h4><b>Twitter:</b> <a href='https://twitter.com/venohr'>@venohr</a></h4><h4><b>Website:</b> <a href='http://www.zeit.de/datenjournalismus'>Datenjournalismus: Projekte von ZEIT Online</a></h4><h4><b>Portrait:</b> <a href='https://netzwerkrecherche.org/blog/der-daten-akrobat/'>Der Daten-Akrobat</a></h4></td>
+</tr>
+ <tr>
+<td></td>
+<td><h2 id='S'><b>Sebastian Mondial</b></h2><h3>Freier Datenjournalist, ZEIT Online | Datenjournalismus-Trainer | <em>Hamburg</em></h3><br><h4><b>Twitter:</b> <a href='https://twitter.com/kappuchino'>@kappuchino</a></h4><h4><b>Website:</b> <a href=''></a></h4><h4><b>Portrait:</b> <a href='http://netzwerkrecherche.org/wordpress/blog14/der-spurensucher/'>Der Spurensucher</a></h4></td>
+</tr>
+ <tr>
+<td></td>
+<td><h2 id='S'><b>Stefan Wehrmeyer</b></h2><h3>Datenjournalist, CORRECT!V | Gründer "Frag den Staat" | Open-Data-Aktivist | <em></em></h3><br><h4><b>Twitter:</b> <a href='https://twitter.com/stefanwehrmeyer'>@stefanwehrmeyer</a></h4><h4><b>Website:</b> <a href='http://stefanwehrmeyer.com/'>stefanwehrmeyer.com</a></h4><h4><b>Portrait:</b> <a href='https://netzwerkrecherche.org/blog/der-aktivist/'>Der Aktivist</a></h4></td>
+</tr>
+ <tr>
+<td></td>
+<td><h2 id='S'><b>Sylke Gruhnwald</b></h2><h3>Leiterin SRF Data Team | <em>Zürich</em></h3><br><h4><b>Twitter:</b> <a href='https://twitter.com/sylkegruhnwald'>@SylkeGruhnwald</a></h4><h4><b>Website:</b> <a href='http://www.srf.ch/news/srf-data'>SRF Data</a></h4><h4><b>Portrait:</b> <a href='http://netzwerkrecherche.org/wordpress/blog14/die-strukturierte/'>Die Strukturierte</a></h4></td>
+</tr>
+ <tr>
+<td></td>
+<td><h2 id='T'><b>Till Nagel</b></h2><h3>Urban Complexity Lab, FH Potsdam | <em>Potsdam</em></h3><br><h4><b>Twitter:</b> <a href='https://twitter.com/tillnm'>@tillnm</a></h4><h4><b>Website:</b> <a href='http://tillnagel.com/'>tillnagel.com</a></h4><h4><b>Portrait:</b> <a href='https://netzwerkrecherche.org/blog/der-visualisierungskuenstler/'>Der Visualisierungskünstler</a></h4></td>
+</tr>
+ <tr>
+<td></td>
+<td><h2 id='T'><b>Timo Grossenbacher</b></h2><h3>Programmierer und Datenjournalist, SRF Data | <em>Zürich</em></h3><br><h4><b>Twitter:</b> <a href='https://twitter.com/grssnbchr'>@grssnbchr</a></h4><h4><b>Website:</b> <a href='https://timogrossenbacher.ch/'>timogrossenbacher.ch</a></h4><h4><b>Portrait:</b> <a href='https://netzwerkrecherche.org/blog/der-transparenz-verfechter/'>Der Transparenz-Verfechter</a></h4></td>
+</tr>
+ <tr>
+<td></td>
+<td><h2 id='V'><b>Volker Stollorz</b></h2><h3>Redaktionsleiter, Science Media Center Germany | <em>Köln</em></h3><br><h4><b>Twitter:</b> <a href='https://twitter.com/stollovo'>@Stollovo</a></h4><h4><b>Website:</b> <a href='https://www.sciencemediacenter.de/'>SMC Germany</a></h4><h4><b>Portrait:</b> <a href='http://netzwerkrecherche.org/wordpress/blog14/der-daten-doktor/'>Der Daten-Doktor</a></h4></td>
+</tr>
+ 
+</table>
