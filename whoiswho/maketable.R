@@ -1,7 +1,7 @@
 #Daten einlesen und sortieren
 
 who <- read.csv("C:\\Users\\Kira\\OneDrive\\SHK WiJo\\whoiswho.csv",
-                header = TRUE, sep = ";")
+                header = TRUE)
 who <- dplyr::arrange(who, name)
 
 #Marker
