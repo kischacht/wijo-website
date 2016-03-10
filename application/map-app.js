@@ -1,13 +1,13 @@
-var map = L.map('map', { zoomControl: false, minZoom: 6}).setView([51.420370, 10.251105], 7);
-new L.Control.Zoom({ position: 'bottomright' }).addTo(map);
+var map = L.map('map', {attributionControl: false, minZoom: 6}).setView([48.964516, 10.181227], 6);
+L.control.attribution({position: 'topright'}).addTo(map);
 
 // improve experience on mobile
 if (map.tap) map.tap.disable();
 
-
 // adding layers
 L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
-  attribution: '<a href="https://www.mapbox.com/about/maps/" target="_blank">&copy; Mapbox &copy; OpenStreetMap</a> | <a href="https://www.mapbox.com/map-feedback/" target="_blank">Improve this map</a>',
+  attribution: '<a href="https://www.mapbox.com/about/maps/" target="_blank">&copy; Mapbox &copy; OpenStreetMap</a> | <a href="https://www.mapbox.com/map-feedback/" target="_blank">Improve this map</a>' +
+               '<br><b><a href="http://journalistik.tu-dortmund.de/fileadmin/Mitarbeiter/Schacht/DDJ_Karte/index.html" target="_blank">Vollbild anzeigen</a></b>',
   id: 'datendrang.3cbaa7ef',
   accessToken: 'pk.eyJ1IjoiZGF0ZW5kcmFuZyIsImEiOiJjaWczYXBsZTAxcGQ1dXJtM3IydXBxbXMwIn0.s2c_Q7uvRnMO8cB3RokJ3A'
 }).addTo(map);
