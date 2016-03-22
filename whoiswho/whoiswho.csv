@@ -1,6 +1,6 @@
 bild,name,beruf,ort,website-titel,website-url,twitter-handle,twitter-url,potrait-titel,portrait-url
 ,Lorenz Matzat,Freier Datenjournalist,Berlin,Datenjournalist.de,http://datenjournalist.de/,@lorz,https://twitter.com/lorz,Der Daten-Überflieger,http://netzwerkrecherche.org/wordpress/blog14/der-daten-ueberflieger-2/
-,Sylke Gruhnwald,Leiterin SRF Data Team,Zürich,SRF Data,http://www.srf.ch/news/srf-data,@SylkeGruhnwald,https://twitter.com/sylkegruhnwald,Die Strukturierte,http://netzwerkrecherche.org/wordpress/blog14/die-strukturierte/
+,Sylke Gruhnwald,Freie Datenjournalistin,Zürich,,,@SylkeGruhnwald,https://twitter.com/sylkegruhnwald,Die Strukturierte,http://netzwerkrecherche.org/wordpress/blog14/die-strukturierte/
 ,Sebastian Mondial,"Freier Datenjournalist, ZEIT Online | Datenjournalismus-Trainer",Hamburg,,,@kappuchino,https://twitter.com/kappuchino,Der Spurensucher,http://netzwerkrecherche.org/wordpress/blog14/der-spurensucher/
 ,Patrick Stotz,"Datenjournalist, SPIEGEL Online",Hamburg,mappable.info,http://mappable.info/,@patrickstotz,https://twitter.com/patrickstotz,Der Umsteiger,http://netzwerkrecherche.org/wordpress/blog14/der-umsteiger-2/
 ,Christina Elmer,"Radakteurin für Datenjournalismus,  SPIEGEL Online",Hamburg,Datenlese Blog,http://www.spiegel.de/thema/daten/,@ChElm,https://twitter.com/chelm,Die Brückenbauerin,http://netzwerkrecherche.org/wordpress/blog14/die-brueckenbauerin-2/
@@ -19,9 +19,9 @@ bild,name,beruf,ort,website-titel,website-url,twitter-handle,twitter-url,potrait
 ,Johannes Kröger,"Open-Data-Aktivist | Wiss. Mitarbeiter Labor für Geovisualisierung, HCU Hamburg",Hamburg,Hannes ihm sein Blog,http://hannes.enjoys.it/blog/,@cartocalypse,https://twitter.com/cartocalypse,Der Farben-Nerd,https://netzwerkrecherche.org/blog/der-farben-nerd/
 ,Till Nagel,"Urban Complexity Lab, FH Potsdam",Potsdam,tillnagel.com,http://tillnagel.com/,@tillnm,https://twitter.com/tillnm,Der Visualisierungskünstler,https://netzwerkrecherche.org/blog/der-visualisierungskuenstler/
 ,Stefan Wehrmeyer,"Datenjournalist, CORRECT!V | Gründer ""Frag den Staat"" | Open-Data-Aktivist",Berlin,stefanwehrmeyer.com,http://stefanwehrmeyer.com/,@stefanwehrmeyer,https://twitter.com/stefanwehrmeyer,Der Aktivist,https://netzwerkrecherche.org/blog/der-aktivist/
-,Julian Schmidli,"Datenjournalist, SRF Data",Zürich,,http://www.julianschmidli.com/,@julianschmidli,https://twitter.com/julianschmidli,,
+,Julian Schmidli,"Datenjournalist, SRF Data",Zürich,julianschmidli.com,http://www.julianschmidli.com/,@julianschmidli,https://twitter.com/julianschmidli,,
 ,Marvin Milatz,"Datenjournalist, NZZ Storytelling",Zürich,,,@marvinmilatz,https://twitter.com/marvinmilatz,,
-,Mirko Lorenz,Freier Datenjournailst | Projektmanager Datawrapper,Bad Honnef,,,@mirkolorenz,https://twitter.com/mirkolorenz,,
+,Mirko Lorenz,Freier Datenjournailst | Projektmanager Datawrapper,Bad Honnef,mirkolorenz.com,http://www.mirkolorenz.com/,@mirkolorenz,https://twitter.com/mirkolorenz,,
 ,Uli Koeppen,"Datenjournalistin, BR Data",München,,,@zehnzehen,https://twitter.com/zehnzehen,,
 ,Manuel Mohr,"Datenjournalist, BR Data",München,,,@manuel_mohr,https://twitter.com/manuel_mohr,,
 ,Steffen Kühne,"Datenjournalist, BR Data",München,,,@stekhn,https://twitter.com/stekhn,,
@@ -30,3 +30,9 @@ bild,name,beruf,ort,website-titel,website-url,twitter-handle,twitter-url,potrait
 ,Oliver Schnuck,"Datenjournalist, BR Data",München,,, @schnuko,https://twitter.com/schnuko,,
 ,André Pätzold,"Datenjournalist, Interaktiv-Team, Berliner Morgenpost",Berlin,,,@AlterPaetz,https://twitter.com/AlterPaetz,,
 ,Paul Blickle,"Datenjournalist, ZEIT Online",Berlin,,,@colorfuldata,https://twitter.com/colorfuldata,,
+,David Bauer,Leiter NZZ Storytelling,Zürich,davidbauer.ch,http://t.co/kgWVRXI5RD,@davidbauer,https://twitter.com/davidbauer,,
+,Bernd Oswald,Datenjournalismus-Trainer,München,Journalisten-Training,http://www.journalisten-training.de/,@berndoswald,https://twitter.com/berndoswald,,
+,Vanessa Wormer,"Investigative Datenjournalistin, Süddeutsche Zeitung",München,vanessawormer.de,http://www.vanessawormer.de/,@Remrow,https://twitter.com/Remrow,,
+,Achim Tack,"Datenjournalist, SPIEGEL Online",Hamburg,achimtack.org,http://www.achim-tack.org/,@A_Tack,https://twitter.com/A_Tack,,
+,Moritz Klack,"Interaktiv-Team, Berliner Morgenpost | Gründer Webkid.io",Berlin,webkid.io,http://webkid.io/,@moklick,https://twitter.com/moklick,,
+,Marcel Pauly,"Datenjournalist, Investivatig-Team, Welt-Gruppe",Berlin/Hamburg,marcelpauly.de,http://www.marcelpauly.de/,@marcelpauly,https://twitter.com/marcelpauly,,

@@ -1,23 +1,23 @@
 long,lat,name,orga,link,ort,leitung,picture,icon,type
-8.560453,47.417563,SRF Data,SRF (Schweizer Radio und Fernsehen),http://www.srf.ch/news/srf-data,Zürich,Sylke Gruhnwald,http://www.festivaldelgiornalismo.com/pictures/user/medium/1/1911_47UQW.jpg,./data/icons/srfdata.png,Redaktion
-11.55409,48.14424,BR Data,BR (Bayerischer Rundfunk),http://www.br.de/extra/br-data/index.html,München,Uli Koeppen,http://blog.br.de/abi2011/wp-content/themes/abi2011/data/ulrike-koeppen_200.jpg,./data/icons/br.png,Redaktion
-13.39804,52.50762,Interaktiv-Team,Berliner Morgenpost,http://www.morgenpost.de/interaktiv/,Berlin,Julius Tröger,https://pbs.twimg.com/profile_images/548995319434723330/ZdqKy8ug.jpeg,./data/icons/mopo.jpg,Redaktion
+8.560453,47.417563,SRF Data,SRF (Schweizer Radio und Fernsehen),http://www.srf.ch/news/srf-data,Zï¿½rich,Sandra Manca,http://www.festivaldelgiornalismo.com/pictures/user/medium/1/1911_47UQW.jpg,./data/icons/srfdata.png,Redaktion
+11.55409,48.14424,BR Data,BR (Bayerischer Rundfunk),http://www.br.de/extra/br-data/index.html,Mï¿½nchen,Uli Koeppen,http://blog.br.de/abi2011/wp-content/themes/abi2011/data/ulrike-koeppen_200.jpg,./data/icons/br.png,Redaktion
+13.39804,52.50762,Interaktiv-Team,Berliner Morgenpost,http://www.morgenpost.de/interaktiv/,Berlin,Julius Trï¿½ger,https://pbs.twimg.com/profile_images/548995319434723330/ZdqKy8ug.jpeg,./data/icons/mopo.jpg,Redaktion
 13.38103,52.50519,Team Investigativ/Daten,ZEIT Online,http://www.zeit.de/datenjournalismus,Berlin,Sascha Venohr,http://community.zeit.de/sites/default/files/pictures/picture-211790-1446728989.jpg,./data/icons/zeit.png,Redaktion
 10.004017,53.545762,Datenlese,SPIEGEL Online,http://www.spiegel.de/thema/daten/,Hamburg,Christina Elmer,http://onmedia.dw-akademie.com/english/files/IMG_0340.jpg,./data/icons/spon.jpg,Redaktion
-8.547561,47.364939,NZZ Storytelling,NZZ (Neue Züricher Zeitung),http://www.nzz.ch/data/,Zürich,David Bauer,,./data/icons/nzz.png,Redaktion
+8.547561,47.364939,NZZ Storytelling,NZZ (Neue Zï¿½richer Zeitung),http://www.nzz.ch/data/,Zï¿½rich,David Bauer,,./data/icons/nzz.png,Redaktion
 7.417798,51.494564,Studiengang Datenjournalismus,TU Dortmund,http://www.wissenschaftsjournalismus.org/ba-zweitfach-datenanalyse.html,Dortmund,Holger Wormer,http://journalistik.tu-dortmund.de/fileadmin/Bilder/Mitarbeiter/wormer.jpg,./data/icons/tu.png,Ausbildung
 7.417445,51.494049,Journocode,,http://journocode.com/,Dortmund,Marie-Louise Timcke,,./data/icons/journo.png,Meetup
 9.993682,53.551085,OK Lab,,http://codefor.de/hamburg,Hamburg,,,./data/icons/ok.png,Meetup
 13.382337,52.498534,OK Lab,,http://codefor.de/berlin,Berlin,,,./data/icons/ok.png,Meetup
 11.629084,52.11952,OK Lab,,http://codefor.de/magdeburg,Magdeburg,,,./data/icons/ok.png,Meetup
-7.630538,51.964971,OK Lab,,http://codefor.de/muenster,Münster,,,./data/icons/ok.png,Meetup
+7.630538,51.964971,OK Lab,,http://codefor.de/muenster,Mï¿½nster,,,./data/icons/ok.png,Meetup
 6.748874,51.569299,OK Lab,,http://codefor.de/ruhrgebiet,Ruhrgebiet,,,./data/icons/ok.png,Meetup
 6.638324,51.481628,OK Lab,,http://codefor.de/niederrhein,Niederrhein,,,./data/icons/ok.png,Meetup
-6.773096,51.227698,OK Lab,,http://codefor.de/duesseldorf,Düsseldorf,,,./data/icons/ok.png,Meetup
+6.773096,51.227698,OK Lab,,http://codefor.de/duesseldorf,Dï¿½sseldorf,,,./data/icons/ok.png,Meetup
 7.144582,51.26642,OK Lab,,http://codefor.de/wuppertal,Wuppertal,,,./data/icons/ok.png,Meetup
-6.900711,50.960162,OK Lab,,http://codefor.de/koeln,Köln,,,./data/icons/ok.png,Meetup
+6.900711,50.960162,OK Lab,,http://codefor.de/koeln,Kï¿½ln,,,./data/icons/ok.png,Meetup
 7.094403,50.73741,OK Lab,,http://codefor.de/bonn,Bonn,,,./data/icons/ok.png,Meetup
-8.690906,50.587295,OK Lab,,http://codefor.de/giessen,Gießen,,,./data/icons/ok.png,Meetup
+8.690906,50.587295,OK Lab,,http://codefor.de/giessen,Gieï¿½en,,,./data/icons/ok.png,Meetup
 9.479753,51.312384,OK Lab,,http://codefor.de/kassel,Kassel,,,./data/icons/ok.png,Meetup
 11.576037,50.922167,OK Lab,,http://codefor.de/jena,Jena,,,./data/icons/ok.png,Meetup
 12.379037,51.331725,OK Lab,,http://codefor.de/leipzig,Leipzig,,,./data/icons/ok.png,Meetup
@@ -29,5 +29,5 @@ long,lat,name,orga,link,ort,leitung,picture,icon,type
 9.173458,48.776427,OK Lab,,http://codefor.de/stuttgart,Stuttgart,,,./data/icons/ok.png,Meetup
 9.954148,48.424874,OK Lab,,http://codefor.de/ulm,Ulm,,,./data/icons/ok.png,Meetup
 8.405627,49.006257,OK Lab,,http://codefor.de/karlsruhe,Karlsruhe,,,./data/icons/ok.png,Meetup
-11.568393,48.144718,OK Lab,,http://codefor.de/münchen,München,,,./data/icons/ok.png,Meetup
+11.568393,48.144718,OK Lab,,http://codefor.de/mï¿½nchen,Mï¿½nchen,,,./data/icons/ok.png,Meetup
 7.850041,47.983412,OK Lab,,http://codefor.de/freiburg,Freiburg,,,./data/icons/ok.png,Meetup

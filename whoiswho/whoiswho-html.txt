@@ -1,9 +1,17 @@
-<h2> <a href='#A'>A</a> <a href='#B'>B</a> <a href='#C'>C</a> D E F <a href='#G'>G</a> H I <a href='#J'>J</a> <a href='#K'>K</a> <a href='#L'>L</a> <a href='#M'>M</a> <a href='#N'>N</a> <a href='#O'>O</a> <a href='#P'>P</a> Q <a href='#R'>R</a> <a href='#S'>S</a> <a href='#T'>T</a> <a href='#U'>U</a> <a href='#V'>V</a> W X Y Z </h2>
+<h2> <a href='#A'>A</a> <a href='#B'>B</a> <a href='#C'>C</a> <a href='#D'>D</a> E F <a href='#G'>G</a> H I <a href='#J'>J</a> <a href='#K'>K</a> <a href='#L'>L</a> <a href='#M'>M</a> <a href='#N'>N</a> <a href='#O'>O</a> <a href='#P'>P</a> Q <a href='#R'>R</a> <a href='#S'>S</a> <a href='#T'>T</a> <a href='#U'>U</a> <a href='#V'>V</a> W X Y Z </h2>
 
 <table>
  <tr>
 <td></td>
+<td><h2 id='A'><b>Achim Tack</b></h2><h3>Datenjournalist, SPIEGEL Online | <em>Hamburg</em></h3><br><h4><b>Twitter:</b> <a href='https://twitter.com/A_Tack'>@A_Tack</a></h4><h4><b>Website:</b> <a href='http://www.achim-tack.org/'>achimtack.org</a></h4></td>
+</tr>
+ <tr>
+<td></td>
 <td><h2 id='A'><b>André Pätzold</b></h2><h3>Datenjournalist, Interaktiv-Team, Berliner Morgenpost | <em>Berlin</em></h3><br><h4><b>Twitter:</b> <a href='https://twitter.com/AlterPaetz'>@AlterPaetz</a></h4></td>
+</tr>
+ <tr>
+<td></td>
+<td><h2 id='B'><b>Bernd Oswald</b></h2><h3>Datenjournalismus-Trainer | <em>München</em></h3><br><h4><b>Twitter:</b> <a href='https://twitter.com/berndoswald'>@berndoswald</a></h4><h4><b>Website:</b> <a href='http://www.journalisten-training.de/'>Journalisten-Training</a></h4></td>
 </tr>
  <tr>
 <td></td>
@@ -19,6 +27,10 @@
 </tr>
  <tr>
 <td></td>
+<td><h2 id='D'><b>David Bauer</b></h2><h3>Leiter NZZ Storytelling | <em>Zürich</em></h3><br><h4><b>Twitter:</b> <a href='https://twitter.com/davidbauer'>@davidbauer</a></h4><h4><b>Website:</b> <a href='http://t.co/kgWVRXI5RD'>davidbauer.ch</a></h4></td>
+</tr>
+ <tr>
+<td></td>
 <td><h2 id='G'><b>Gregor Aisch</b></h2><h3>Graphics Editor, New York Times | <em>New York</em></h3><br><h4><b>Twitter:</b> <a href='https://twitter.com/driven_by_data'>@driven-by-data</a></h4><h4><b>Website:</b> <a href='http://driven-by-data.net/'>driven-by-data.net</a></h4><h4><b>Portrait:</b> <a href='http://netzwerkrecherche.org/wordpress/blog14/der-visualisierer/'>Der Visualisierer</a></h4></td>
 </tr>
  <tr>
@@ -27,7 +39,7 @@
 </tr>
  <tr>
 <td></td>
-<td><h2 id='J'><b>Julian Schmidli</b></h2><h3>Datenjournalist, SRF Data | <em>Zürich</em></h3><br><h4><b>Twitter:</b> <a href='https://twitter.com/julianschmidli'>@julianschmidli</a></h4></td>
+<td><h2 id='J'><b>Julian Schmidli</b></h2><h3>Datenjournalist, SRF Data | <em>Zürich</em></h3><br><h4><b>Twitter:</b> <a href='https://twitter.com/julianschmidli'>@julianschmidli</a></h4><h4><b>Website:</b> <a href='http://www.julianschmidli.com/'>julianschmidli.com</a></h4></td>
 </tr>
  <tr>
 <td></td>
@@ -44,6 +56,10 @@
  <tr>
 <td></td>
 <td><h2 id='M'><b>Manuel Mohr</b></h2><h3>Datenjournalist, BR Data | <em>München</em></h3><br><h4><b>Twitter:</b> <a href='https://twitter.com/manuel_mohr'>@manuel_mohr</a></h4></td>
+</tr>
+ <tr>
+<td></td>
+<td><h2 id='M'><b>Marcel Pauly</b></h2><h3>Datenjournalist, Investivatig-Team, Welt-Gruppe | <em>Berlin/Hamburg</em></h3><br><h4><b>Twitter:</b> <a href='https://twitter.com/marcelpauly'>@marcelpauly</a></h4><h4><b>Website:</b> <a href='http://www.marcelpauly.de/'>marcelpauly.de</a></h4></td>
 </tr>
  <tr>
 <td></td>
@@ -67,7 +83,11 @@
 </tr>
  <tr>
 <td></td>
-<td><h2 id='M'><b>Mirko Lorenz</b></h2><h3>Freier Datenjournailst | Projektmanager Datawrapper | <em>Bad Honnef</em></h3><br><h4><b>Twitter:</b> <a href='https://twitter.com/mirkolorenz'>@mirkolorenz</a></h4></td>
+<td><h2 id='M'><b>Mirko Lorenz</b></h2><h3>Freier Datenjournailst | Projektmanager Datawrapper | <em>Bad Honnef</em></h3><br><h4><b>Twitter:</b> <a href='https://twitter.com/mirkolorenz'>@mirkolorenz</a></h4><h4><b>Website:</b> <a href='http://www.mirkolorenz.com/'>mirkolorenz.com</a></h4></td>
+</tr>
+ <tr>
+<td></td>
+<td><h2 id='M'><b>Moritz Klack</b></h2><h3>Interaktiv-Team, Berliner Morgenpost | Gründer Webkid.io | <em>Berlin</em></h3><br><h4><b>Twitter:</b> <a href='https://twitter.com/moklick'>@moklick</a></h4><h4><b>Website:</b> <a href='http://webkid.io/'>webkid.io</a></h4></td>
 </tr>
  <tr>
 <td></td>
@@ -107,7 +127,7 @@
 </tr>
  <tr>
 <td></td>
-<td><h2 id='S'><b>Sylke Gruhnwald</b></h2><h3>Leiterin SRF Data Team | <em>Zürich</em></h3><br><h4><b>Twitter:</b> <a href='https://twitter.com/sylkegruhnwald'>@SylkeGruhnwald</a></h4><h4><b>Website:</b> <a href='http://www.srf.ch/news/srf-data'>SRF Data</a></h4><h4><b>Portrait:</b> <a href='http://netzwerkrecherche.org/wordpress/blog14/die-strukturierte/'>Die Strukturierte</a></h4></td>
+<td><h2 id='S'><b>Sylke Gruhnwald</b></h2><h3>Freie Datenjournalistin | <em>Zürich</em></h3><br><h4><b>Twitter:</b> <a href='https://twitter.com/sylkegruhnwald'>@SylkeGruhnwald</a></h4><h4><b>Portrait:</b> <a href='http://netzwerkrecherche.org/wordpress/blog14/die-strukturierte/'>Die Strukturierte</a></h4></td>
 </tr>
  <tr>
 <td></td>
@@ -120,6 +140,10 @@
  <tr>
 <td></td>
 <td><h2 id='U'><b>Uli Koeppen</b></h2><h3>Datenjournalistin, BR Data | <em>München</em></h3><br><h4><b>Twitter:</b> <a href='https://twitter.com/zehnzehen'>@zehnzehen</a></h4></td>
+</tr>
+ <tr>
+<td></td>
+<td><h2 id='V'><b>Vanessa Wormer</b></h2><h3>Investigative Datenjournalistin, Süddeutsche Zeitung | <em>München</em></h3><br><h4><b>Twitter:</b> <a href='https://twitter.com/Remrow'>@Remrow</a></h4><h4><b>Website:</b> <a href='http://www.vanessawormer.de/'>vanessawormer.de</a></h4></td>
 </tr>
  <tr>
 <td></td>
